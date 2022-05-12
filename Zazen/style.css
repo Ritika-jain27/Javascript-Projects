@@ -91,3 +91,10 @@ video {
   width: 100%;
   z-index: -10;
 }
+
+.heading{
+  text-align: center;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 0px;
+}
